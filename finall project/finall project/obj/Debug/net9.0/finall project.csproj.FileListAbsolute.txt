@@ -1,0 +1,14 @@
+D:\تاسكات مبادرة\finall project\finall project\bin\Debug\net9.0\finall project.exe
+D:\تاسكات مبادرة\finall project\finall project\bin\Debug\net9.0\finall project.deps.json
+D:\تاسكات مبادرة\finall project\finall project\bin\Debug\net9.0\finall project.runtimeconfig.json
+D:\تاسكات مبادرة\finall project\finall project\bin\Debug\net9.0\finall project.dll
+D:\تاسكات مبادرة\finall project\finall project\bin\Debug\net9.0\finall project.pdb
+D:\تاسكات مبادرة\finall project\finall project\obj\Debug\net9.0\finall project.GeneratedMSBuildEditorConfig.editorconfig
+D:\تاسكات مبادرة\finall project\finall project\obj\Debug\net9.0\finall project.AssemblyInfoInputs.cache
+D:\تاسكات مبادرة\finall project\finall project\obj\Debug\net9.0\finall project.AssemblyInfo.cs
+D:\تاسكات مبادرة\finall project\finall project\obj\Debug\net9.0\finall project.csproj.CoreCompileInputs.cache
+D:\تاسكات مبادرة\finall project\finall project\obj\Debug\net9.0\finall project.dll
+D:\تاسكات مبادرة\finall project\finall project\obj\Debug\net9.0\refint\finall project.dll
+D:\تاسكات مبادرة\finall project\finall project\obj\Debug\net9.0\finall project.pdb
+D:\تاسكات مبادرة\finall project\finall project\obj\Debug\net9.0\finall project.genruntimeconfig.cache
+D:\تاسكات مبادرة\finall project\finall project\obj\Debug\net9.0\ref\finall project.dll
